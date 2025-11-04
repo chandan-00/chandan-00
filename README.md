@@ -56,9 +56,18 @@
 ---
 
 ### 📊 **GitHub Stats**
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=chandan-00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=chandan-00&theme=dark&hide_border=false)
+
+<p align="center">
+  <a href="https://github.com/chandan-00r">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-00&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  </a>
+  <a href="https://github.com/chandan-00">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=chandan-00&show_icons=true&theme=vision-friendly-dark&rank_icon=github" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/chandan-00">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chandan00&theme=vision-friendly-dark" alt="GitHub Streak" />
+  </a>
+</p>
 
 ---
 
