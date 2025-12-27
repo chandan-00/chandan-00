@@ -58,7 +58,7 @@
 ### 📊 **GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/chandan-00r">
+  <a href="https://github.com/chandan-00">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandan-00&theme=vision-friendly-dark" alt="Top Languages" />
   </a>
   <a href="https://github.com/chandan-00">
